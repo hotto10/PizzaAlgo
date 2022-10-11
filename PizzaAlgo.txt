@@ -1,0 +1,6 @@
+Decide which pizza place to order from
+Decide what kind of pizza to order
+Decide if you want it carryout or delivery
+Decide which form of payment for the order
+Decide what drink you would like to go with the pizza
+Set a timer on your phone for when to get the order
